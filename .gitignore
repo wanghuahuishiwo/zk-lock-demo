@@ -3,3 +3,6 @@
 *.project
 */.settings/*
 */target/classes/*
+*/.idea/*
+zk-lock-demo/target/MANIFEST.MF
+zk-lock-demo/zk-lock-demo.iml
